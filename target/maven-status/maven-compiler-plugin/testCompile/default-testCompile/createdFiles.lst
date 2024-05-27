@@ -1,0 +1,5 @@
+BDD\steps\LoginSteps.class
+Pages\DashboardPage.class
+Config\ConfiguraBrowser.class
+Pages\LoginPage.class
+BDD\TestRunner.class

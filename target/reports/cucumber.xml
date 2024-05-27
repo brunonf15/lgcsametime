@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.232" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login LetsGetChecked" name="Test valid login - Example #1.1" time="13.087">
+<system-out><![CDATA[
+Given I am using Selenium on "chrome".......................................passed
+And I am at LGC login page..................................................passed
+And I insert valid data.....................................................passed
+And I click to sign in button...............................................passed
+Then I will be at dashboard.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
